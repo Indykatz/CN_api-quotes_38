@@ -3,6 +3,7 @@ import { useEffect, useState } from "react";
 import HeaderBanner from "./components/Header";
 import FooterBanner from "./components/Footer";
 
+// katy is commenting here test 1 
 const App = () => {
   // useState animal
   const [programmingQuotes, setProgrammingQuotes] = useState([]);
